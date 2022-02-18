@@ -1,3 +1,5 @@
-Javascript Drum Kit
+Vanilla Javascript Drum Kit
 
-Uses key events to access data attributes that contain the audio.
+Press down on the keys to play the drums.
+
+<img src='/preview.png'>
